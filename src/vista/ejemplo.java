@@ -49,6 +49,10 @@ public class ejemplo {
         System.out.println("Hola munda mala");
     }
     
+    public void keyla(){
+        System.out.println("metodo ejemplo");
+    }
+    
     /**comentario de david**/
     public void dormir(String cansado){
         System.out.println("Situacion actual: " + cansado);
