@@ -11,4 +11,6 @@ package vista;
  */
 public class ejemplo {
     
+    String edad;
+    String nombre="colombianita";
 }
