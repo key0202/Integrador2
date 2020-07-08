@@ -11,6 +11,11 @@ package vista;
  */
 public class ejemplo {
     
-    String edad;
+    String id;
     String nombre="colombianita";
+    int edad=15;
+    
+    public static void main(String[] args) {
+        System.out.println("Hola munda");
+    }
 }
