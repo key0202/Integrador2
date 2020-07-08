@@ -25,7 +25,7 @@ public class ejemplo {
     }
     
     public double moneda(){
-        return  314;
+        return  31;
     }
     
     public void saltando(){
