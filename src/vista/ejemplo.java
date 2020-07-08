@@ -10,5 +10,9 @@ package vista;
  * @author Mikeyla
  */
 public class ejemplo {
+    String apellidos;
     
+    public void dormir(){
+        
+    }
 }
