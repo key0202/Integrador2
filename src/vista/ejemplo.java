@@ -18,10 +18,14 @@ public class ejemplo {
     int edad=15;
     Boolean bica=true;
     
+    
+    
     public void saltando(){
         JOptionPane.showMessageDialog(null, edad);
     }
-    
+    public void keyla(){
+        System.out.println("Hola mundo desde Git");
+    }
     public static void main(String[] args) {
         System.out.println("Hola munda");
     }
