@@ -21,7 +21,7 @@ public class ejemplo {
     
     public String SuperColombianita(){
         String mensaje;
-        return mensaje="Sube tu cambio pues oe";
+        return mensaje="Sube tu camararararbio pues oe";
     }
     
     public void saltando(){
