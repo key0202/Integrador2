@@ -26,4 +26,9 @@ public class ejemplo {
     public static void main(String[] args) {
         System.out.println("Hola munda");
     }
+    
+    /**comentario de david**/
+    public void dormir(String cansado){
+        System.out.println("Situacion actual: " + cansado);
+    }
 }
