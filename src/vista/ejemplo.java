@@ -5,6 +5,8 @@
  */
 package vista;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Mikeyla
@@ -15,6 +17,10 @@ public class ejemplo {
     String nombre="colombianita";
     int edad=15;
     Boolean bica=true;
+    
+    public void saltando(){
+        JOptionPane.showMessageDialog(null, edad);
+    }
     
     public static void main(String[] args) {
         System.out.println("Hola munda");
