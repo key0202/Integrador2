@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 public class ejemplo {
     
     String id;
-    String nombre="colombianita";
+    String nombre="colombanita";
     int edad=15;
     Boolean bica=true;
     
