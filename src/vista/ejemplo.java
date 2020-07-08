@@ -16,13 +16,13 @@ public class ejemplo {
     String apellidos;
     
     String id;
-    String nombre="colombianita";
+    String nombre="colombanita";
     int edad=15;
     Boolean bica=true;
     
     public String SuperColombianita(){
         String mensaje;
-        return mensaje="Sube tu cambio pues oe";
+        return mensaje="Sube tu camararararbio pues oe";
     }
     
     public double moneda(){
