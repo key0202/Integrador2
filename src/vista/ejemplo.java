@@ -12,7 +12,11 @@ package vista;
 public class ejemplo {
     String apellidos;
     
-    public void dormir(){
-        
+    String id;
+    String nombre="colombianita";
+    int edad=15;
+    
+    public static void main(String[] args) {
+        System.out.println("Hola munda");
     }
 }
