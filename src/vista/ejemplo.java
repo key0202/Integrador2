@@ -52,6 +52,9 @@ public class ejemplo {
     public void keyla(){
         System.out.println("metodo ejemplo");
     }
+    public void keyla2(){
+        JOptionPane.showMessageDialog(null, "keyla xd");
+    }
     
     /**comentario de david**/
     public void dormir(String cansado){
