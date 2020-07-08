@@ -24,6 +24,10 @@ public class ejemplo {
         return mensaje="Sube tu cambio pues oe";
     }
     
+    public double moneda(){
+        return  314;
+    }
+    
     public void saltando(){
         JOptionPane.showMessageDialog(null, edad);
     }
