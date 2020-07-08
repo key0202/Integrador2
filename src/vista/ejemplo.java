@@ -21,8 +21,15 @@ public class ejemplo {
     public void saltando(){
         JOptionPane.showMessageDialog(null, edad);
     }
+        
+    public String abel(){
+        String a="";
+        JOptionPane.showMessageDialog(null, edad);
+        return a;
+    }
     
     public static void main(String[] args) {
-        System.out.println("Hola munda");
+        System.out.println("Hola munda mala");
     }
+    
 }
