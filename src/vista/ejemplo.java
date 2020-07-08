@@ -33,7 +33,13 @@ public class ejemplo {
     }
         
     public String abel(){
-        String a="";
+        String a="QUE LA FUERZA TE ACOMPAÑE";
+        JOptionPane.showMessageDialog(null, edad);
+        return a;
+    }
+    
+        public String ABEL2(){
+        String a="TÚ TOMAS?";
         JOptionPane.showMessageDialog(null, edad);
         return a;
     }
