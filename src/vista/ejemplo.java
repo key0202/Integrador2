@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
  * @author Mikeyla
  */
 public class ejemplo {
+    String apellidos;
     
     String id;
     String nombre="colombianita";
@@ -42,4 +43,8 @@ public class ejemplo {
         System.out.println("Hola munda mala");
     }
     
+    /**comentario de david**/
+    public void dormir(String cansado){
+        System.out.println("Situacion actual: " + cansado);
+    }
 }
