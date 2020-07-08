@@ -5,6 +5,7 @@
  */
 package vista;
 
+import java.util.List;
 import javax.swing.JOptionPane;
 
 /**
@@ -17,6 +18,11 @@ public class ejemplo {
     String nombre="colombianita";
     int edad=15;
     Boolean bica=true;
+    
+    public String SuperColombianita(){
+        String mensaje;
+        return mensaje="Sube tu cambio pues oe";
+    }
     
     public void saltando(){
         JOptionPane.showMessageDialog(null, edad);
