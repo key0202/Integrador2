@@ -57,7 +57,7 @@ public class LoginConsumidor extends javax.swing.JFrame {
                 .addContainerGap(234, Short.MAX_VALUE))
         );
 
-        jPanel2.setBackground(new java.awt.Color(51, 153, 255));
+        jPanel2.setBackground(new java.awt.Color(0, 204, 255));
 
         jLabel1.setText("USUARIO");
 
