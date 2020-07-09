@@ -22,7 +22,7 @@ public class ejemplo {
     
     public String SuperColombianita(){
         String mensaje;
-        return mensaje="Sube tu camararararbio pues oe";
+        return mensaje="Sube tu camararararbios pues oe";
     }
     
     public double moneda(){
