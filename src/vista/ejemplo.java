@@ -16,13 +16,13 @@ public class ejemplo {
     String apellidos;
     
     String id;
-    String nombre="colombianita";
+    String nombre="colombanita";
     int edad=15;
     Boolean bica=true;
     
     public String SuperColombianita(){
         String mensaje;
-        return mensaje="Sube tu cambio pues oe";
+        return mensaje="Sube tu camararararbios pues oe";
     }
     
     public double moneda(){
@@ -47,6 +47,13 @@ public class ejemplo {
     
     public static void main(String[] args) {
         System.out.println("Hola munda mala");
+    }
+    
+    public void keyla(){
+        System.out.println("metodo ejemplo");
+    }
+    public void keyla2(){
+        JOptionPane.showMessageDialog(null, "keyla xd");
     }
     
     /**comentario de david**/
