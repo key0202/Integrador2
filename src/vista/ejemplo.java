@@ -34,13 +34,26 @@ public class ejemplo {
     }
         
     public String abel(){
-        String a="";
+        String a="QUE LA FUERZA TE ACOMPAÑE";
+        JOptionPane.showMessageDialog(null, edad);
+        return a;
+    }
+    
+        public String ABEL2(){
+        String a="TÚ TOMAS?";
         JOptionPane.showMessageDialog(null, edad);
         return a;
     }
     
     public static void main(String[] args) {
         System.out.println("Hola munda mala");
+    }
+    
+    public void keyla(){
+        System.out.println("metodo ejemplo");
+    }
+    public void keyla2(){
+        JOptionPane.showMessageDialog(null, "keyla xd");
     }
     
     /**comentario de david**/
